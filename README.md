@@ -1,4 +1,4 @@
--  Hi, I’m @RickySavanna
+-  Hello World , I’m @RickySavanna
 -  I’m interested in learning how to develop softwares
 -  I’m currently learning Python
 - I’m looking to collaborate on web development
